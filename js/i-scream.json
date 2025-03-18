@@ -1,7 +1,7 @@
 {
-    "companyName": "I-Scream Company Inc.",
-    "headOffice": "North Pole",
-    "established": 2025,
+    "companyName": "Allie's Company Inc.",
+    "headOffice": "South Island",
+    "established": 1991,
     "active": true,
     "topFlavours": [{
         "name": "Chocolate Mint",
@@ -28,7 +28,7 @@
         "ingredients": ["OREO Cookie Pieces", "Vanilla Base", "Caramel Syrup"],
         "image": "https://alliepinnell.github.io/1073G-Lab04/images/ice-cream-xtra2.svg"
     }, {
-        "name": "Kiwi Cotton Candy",
+        "name": "Gummy Kiwi",
         "calories": 280,
         "type": "ice-cream",
         "ingredients": ["Gummy Pieces", "Green Kiwifruit Base", "Cherry Syrup"],
