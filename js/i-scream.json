@@ -16,10 +16,22 @@
         "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
         "image": "https://alliepinnell.github.io/1073G-Lab04/images/peach-mango.svg"
     }, {
-        "name": "Strawberry SSprinkle",
+        "name": "Strawberry Sprinkle",
         "calories": 200,
         "type": "ice-cream",
         "ingredients": ["Strawberry Syrup", "Strawberry Pieces", "Vanilla Base", "Chocolate Syrup"],
         "image": "https://alliepinnell.github.io/1073G-Lab04/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Cookies and Cream",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": ["OREO Cookie Pieces", "Vanilla Base", "Caramel Syrup"],
+        "image": "https://alliepinnell.github.io/1073G-Lab04/images/ice-cream-xtra2.svg"
+    }, {
+        "name": "Kiwi Cotton Candy",
+        "calories": 280,
+        "type": "ice-cream",
+        "ingredients": ["Gummy Pieces", "Green Kiwifruit Base", "Cherry Syrup"],
+        "image": "https://alliepinnell.github.io/1073G-Lab04/images/ice-cream-xtra1.svg"
     }]
 }
